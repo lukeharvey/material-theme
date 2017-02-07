@@ -7,6 +7,14 @@
       "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
     }
   },
+  "Material Theme - Custom":
+  {
+    "Preferences":
+    {
+      "theme": "Material-Theme-Custom.sublime-theme",
+      "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Custom.tmTheme",
+    }
+  },
   "Material Theme - Darker":
   {
     "Preferences":
