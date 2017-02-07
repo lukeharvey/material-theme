@@ -16,7 +16,7 @@
 			<key>settings</key>
 			<dict>
 				<key>activeGuide</key>
-				<string>#80CBC470</string>
+				<string>#FFCB6B</string>
 				<key>background</key>
 				<string>#263238</string>
 				<key>caret</key>
@@ -55,7 +55,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#546E7A</string>
+				<string>#B2CCD6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -66,7 +66,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#eeffff</string>
+				<string>#ffe082</string>
 			</dict>
 		</dict>
 		<dict>
